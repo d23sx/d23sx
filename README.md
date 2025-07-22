@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Computer Science graduate from Applied Science University<br>👯 with a passion for mobile and web development, data analysis, and database management.<br>🤝 with a passion for mobile and web development, data analysis, and database management.<br>🌱   I have hands-on experience with Flutter, Java, Python, and SQL, and enjoy solving problems through code. <br>💬 I’m a calm, dedicated team player who’s always eager to learn and grow professionally.
+🔭 I’m a Computer Science graduate from Applied Science University<br>👯 with a passion for mobile and web development, data analysis, and database management.<br>🌱 I have hands-on experience with Flutter, Java, Python, and SQL, and enjoy solving problems through code. <br>💬 I’m a calm, dedicated team player who’s always eager to learn and grow professionally.
 
 
 ## 🌐 Socials:
